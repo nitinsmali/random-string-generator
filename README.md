@@ -2,6 +2,11 @@
 
 A responsive React app that generates strong random strings with user-controlled length and character options. Built with React functional components and Hooks (`useState`, `useCallback`, `useEffect`).
 
+## Live Demo
+
+#### https://randomstring-generator.vercel.app/
+
+
 ## Features
 
 - Length control via slider and numeric input (1-100)
