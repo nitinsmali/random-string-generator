@@ -44,7 +44,6 @@ export default function StringGenerator() {
     // reset success message on changes
     setSuccess('');
     generate(length, options, false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [length, options]);
 
   // Toggle option helper
